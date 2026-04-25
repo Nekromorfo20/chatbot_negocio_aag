@@ -1,0 +1,23 @@
+{
+  "name": "negocio-openai",
+  "version": "1.0.0",
+  "description": "Proyecto de negocio utilizando javascript y servicios de OpenAI",
+  "license": "MIT",
+  "author": "Alan Aguilar",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "server": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.8.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "openai": "^4.85.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
