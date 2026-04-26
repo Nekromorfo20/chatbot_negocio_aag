@@ -1,4 +1,4 @@
-## Proyecto Node y OpenAI - Chatbot traducciones
+## Proyecto Node y OpenAI - Chatbot negocio
 ### 25-Abril-2026
 
 ### Ejecutar en dev
